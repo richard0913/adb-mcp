@@ -118,6 +118,23 @@ npm run dev
 npm run lint
 ```
 
+### MCP
+```bash
+      "mcpServers": {
+        "adb-mcp": {
+          "type": "stdio",
+          "command": "node",
+          "args": [
+            "/adb-mcp/dist/index.js"
+          ],
+          "env": {
+            "ADB_DOWNLOAD_PATH": "/adb-mcp",
+            "MCP_READ_PATH": "/adb-mcp"
+          }
+        }
+      }
+```
+
 ## License
 
 MIT
