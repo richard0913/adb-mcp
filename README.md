@@ -1,4 +1,4 @@
-# ADB MCP Server
+# ADB MCP
 
 A Model Context Protocol (MCP) server that provides Android Debug Bridge (ADB) functionality for automating Android devices.
 
