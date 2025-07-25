@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides Android Debug Bridge (ADB) functionality for automating Android devices.
 
+<a href="https://glama.ai/mcp/servers/@richard0913/adb-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@richard0913/adb-mcp/badge" alt="ADB Server MCP server" />
+</a>
+
 ## Features
 
 ### Device Management
